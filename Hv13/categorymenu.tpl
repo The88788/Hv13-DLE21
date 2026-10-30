@@ -1,0 +1,1 @@
+[root]<ul class="category-menu">[/root][item]<li><a href="{url}" [active]aria-current="page"[/active]>{name}</a>[sub-prefix]<ul>[/sub-prefix]{sub-item}[sub-suffix]</ul>[/sub-suffix]</li>[/item][root]</ul>[/root]

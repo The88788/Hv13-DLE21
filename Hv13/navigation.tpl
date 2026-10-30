@@ -1,0 +1,1 @@
+<nav class="news-pagination" aria-label="Страницы публикаций">[prev-link]← Назад[/prev-link]<span>{pages}</span>[next-link]Далее →[/next-link]</nav>

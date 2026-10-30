@@ -1,0 +1,1 @@
+<a href="{link}" class="list-group-item list-group-item-action"><strong>{title limit="65"}</strong><span class="small text-muted d-block">{text limit="75"}</span></a>
